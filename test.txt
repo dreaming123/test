@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 dsadsadsa123213adsa
+=======
+dsadsadsa123213
+在桌面上添加
+
+ERP、OA、PLM、MES、SRM等
+
+
+1.有2年左右的JavaWeb开发经验。
+2.熟悉主流开源框架，spring，SpringMvc/Struts2，mybatis/hibernate。
+3.熟悉缓存技术，如redis等。
+4.熟练前端技术，jQuery，ajax等。
+5.熟悉websocket技术，有微信开发经验的优先考虑。
+6.熟练socket编程，netty通讯框架，消息中间件的优先考虑。
+7.了解app开发，swing/c#开发的优先考虑。
+8.流媒体，物联网项目经验的优先考虑
+职能类别：Web前端开发 软件工程师
+>>>>>>> c3059dca4fd790e73b926355e04555482d01eb5f
